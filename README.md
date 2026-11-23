@@ -7,7 +7,7 @@ Vaya... me parece increíble que para demostrar que entendí cómo funciona un �
 Poco más y me piden la IP, el domicilio, mi cuenta bancaria, el historial de navegación y hasta el número de serie de mi refri. ¡MADRE MÍA CHAVAL!🙀🙀☕
 
 
-Bueno... en fin , qué bonita manera de comprometer un poco mi privacidad por unos cuantos puntos en la calificación. Espero que el árbol esté satisfecho, porque yo definitivamente no estoy orgulloso de esta colaboración involuntaria. ☕😿
+Bueno... en fin, qué bonita manera de comprometer un poco mi privacidad por unos cuantos puntos en la calificación. Espero que el árbol esté satisfecho, porque yo definitivamente no estoy orgulloso de esta colaboración involuntaria. ☕😿
 
 En esta actividad se implementa un árbol binario en Java, utilizando nodos que almacenan información y permiten establecer conexiones mediante referencias a hijos izquierdo y derecho. Para poner en práctica su funcionamiento, decidí utilizar información familiar, porque aparentemente aprender estructuras de datos no era suficiente y también había que involucrar a mis parientes. 😿😿
 
